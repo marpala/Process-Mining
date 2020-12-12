@@ -1,1 +1,1 @@
-# 2IOI0-DBL-Process-Mining-Python
+# Process mining estimators for a university project
