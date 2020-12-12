@@ -1,1 +1,3 @@
-# Process mining estimators for a university project
+# Process Mining
+
+Various process mining estimators made for a university project
